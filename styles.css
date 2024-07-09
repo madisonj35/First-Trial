@@ -1,0 +1,23 @@
+body {
+    background-image: url("images/marble.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: Barlow;
+    opacity: .7;
+}
+.main {
+    color: black;
+    padding: 100px 150px 100px 150px;
+    border: black solid 3px;
+    margin: 80px;
+    background-color: white;
+}
+.h1{
+    padding-left: 200px;
+}
+.selfie{
+    height: 200px;
+    margin-left: 260px;
+    border: black 3px solid;
+    border-radius: 10px;
+}
